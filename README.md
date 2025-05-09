@@ -67,7 +67,7 @@ Python Developer | Web Developer | CSE Student
 
 ## 🤝 Connect With Us
 
-- [Facebook]((https://www.facebook.com/your.tahsinX))  
+-  [Facebook](https://www.facebook.com/your.tahsinX)
 - [LinkedIn](https://www.linkedin.com/in/your-tahsinx/)  
 - [Website](https://theproximait.top)
 
