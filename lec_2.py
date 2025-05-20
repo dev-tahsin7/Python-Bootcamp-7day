@@ -1,13 +1,13 @@
 # String
-# name = "Python 7 days Free bootcamp"
-# print(name)
+name = "Python 7 days Free bootcamp"
+print(name)
 
-# String usecase:
-# print("Welcome to our bootcamp!")
+# String use case:
+print("Welcome to our bootcamp!")
 
 # String Index :
 x = "Python" # access the char "h"
-# print(x[3])
+print(x[3])
 
 # Multiline str
 three_str = '''This is a multiline string 
@@ -21,16 +21,16 @@ hello world
 
 # for loop in str
 
-# for i in "Tahsin":
-#     print(i)
+for i in "Tahsin":
+    print(i)
 
 # use of len()
-# nam = "Python"
-# print(len(nam))
+nam = "Python"
+print(len(nam))
 
 # use of 'in' keyword
-# full_name = "Tahsin Ahmad"
-# print("Ahmed" in full_name)
+full_name = "Tahsin Ahmad"
+print("Ahmed" in full_name)
 
 # Slicing
 
