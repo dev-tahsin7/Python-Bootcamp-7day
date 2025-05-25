@@ -1,0 +1,15 @@
+7 days Python Bootcamp:
+    > Variable
+    > Datatypes
+    > String
+    > Comment, Indentation
+    > List
+    > Set
+    > Tuples
+    > Dict
+    > Conditions -- if , elif, else
+    > Loop -- while loop , for loop
+    > function -- global & local variable , return vs print
+    > project -- calculator project
+    > file handling
+    > 30+ Problem Solving Practice
